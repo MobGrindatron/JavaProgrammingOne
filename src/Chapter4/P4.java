@@ -1,12 +1,12 @@
 package Chapter4;
-
+import java.util.Scanner;
 /**
  * Program that receives info about 2 people and displays the better offer to
  * the console
  *
  * @author Matthew Stahel
  */
-import java.util.Scanner;
+
 
 public class P4 {
 
